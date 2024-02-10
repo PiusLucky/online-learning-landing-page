@@ -6,7 +6,7 @@ An online learning landing page built with Next14, Shadcn, Lenis and Tailwind.
 https://online-learning-landing-page-iota.vercel.app/
 
 
-Youtube:  
+Youtube:  https://youtu.be/KEDAlpxLcXQ
 
 
 Figma:  
