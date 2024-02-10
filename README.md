@@ -9,7 +9,9 @@ https://online-learning-landing-page-iota.vercel.app/
 Youtube:  
 
 
-Figma:  https://www.figma.com/file/rN2oZL4j6bZLe7uYbocDG6/Landing-page-UI-%E2%80%94-Rise-Calendar-%E2%80%94-Web-to-Figma-(Community)?node-id=3401%3A7681&mode=dev
+Figma:  
+https://www.figma.com/file/QErhJpl3mlnQTnwuVfi9kp/Online-Learning-Landing-Page-(Community)?type=design&node-id=0-1&mode=design&t=TnQhSFrMV6wmRTS6-0
+
 
 # 💻 Desktop View
 ![screencapture-localhost-3000-2024-02-10-17_58_13](https://github.com/PiusLucky/online-learning-landing-page/assets/32282934/910a404a-b32d-4d2e-8998-ecc15ca63357)
