@@ -32,6 +32,16 @@ const config = {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
       },
+      colors: {
+        primary: "#F48C06",
+        secondary: "#2F327D",
+        accent: "#65DAFF"
+      },
+      backgroundImage:{
+        'hero': 'url(/images/header_bg.png)',
+        'instruction': 'url(/images/w_lady.png)',
+        'students': 'url(/images/w_study_group.png)',
+      },
     },
   },
   plugins: [require("tailwindcss-animate")],

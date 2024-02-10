@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@media (min-width: 1400px) {
+  .clippy {
+    clip-path: polygon(
+      50% 0%,
+      100% 0,
+      100% 35%,
+      100% 89%,
+      80% 96%,
+      56% 100%,
+      26% 96%,
+      0 87%,
+      0% 35%,
+      0 0
+    );
+  }
+}
+
+.ch15 {
+  max-width: 15ch;
+  overflow: hidden;
+  white-space: nowrap;
+}
